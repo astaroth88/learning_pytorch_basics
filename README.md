@@ -1,2 +1,3 @@
-# learning_pytorch_basics
-Implementing the basic intuition and working of Neural Networks using PyTorch.
+# PyTorch Tutorial
+
+Learning and Implementing the PyTorch tutorial from the official documentation. 
